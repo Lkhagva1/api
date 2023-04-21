@@ -1,5 +1,5 @@
-module.exports ={
-    MONGO_URI:"mongodb+srv://mahen:12345a@cluster0.qfgbe.mongodb.net/E-voting?retryWrites=true&w=majority",
-    JWT_SECRET:"MOHENMONDALJDFKFLL"
-
-}
+module.exports = {
+  MONGO_URI:
+    "mongodb+srv://Blhagva1:Blhagva1@lhagva.wtmpcih.mongodb.net/Dashboard?retryWrites=true&w=majority",
+  JWT_SECRET: "MOHENMONDALJDFKFLL",
+};
